@@ -1,8 +1,8 @@
 # RPI-Camera-Security
 You will need 
-Amount|___________________________________________________________________________________
+Amount|________________________________________________________________________________
     1.| https://www.adafruit.com/products/161 |Current price is $ 0.95 Photo cell (CdS photoresistor)
-      ____________________________________________________________________________________
+      _________________________________________________________________________________
     1.| https://www.adafruit.com/products/64 |Current price is $ 5.00 Half-size breadboard
       ____________________________________________________________________________________
     1.| https://www.adafruit.com/products/1094 |Current price is $ 4.95 Laser Mount
