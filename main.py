@@ -1,3 +1,6 @@
-import RPi.GPIO as GPIO 
+import oc2
+import numpi
+
+
 
 
